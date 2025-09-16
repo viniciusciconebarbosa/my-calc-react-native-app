@@ -1,4 +1,4 @@
-# Calculadora React Native - Expo
+# :iphone: Calculadora React Native - Expo - Android/IOS
 
 Uma calculadora moderna e elegante desenvolvida com React Native e Expo, oferecendo uma experiência de usuário fluida e interface intuitiva.
 
@@ -13,7 +13,7 @@ Uma calculadora moderna e elegante desenvolvida com React Native e Expo, oferece
 - 🎨 **Design Moderno**: Interface inspirada na calculadora do iOS
 - 📱 **Multiplataforma**: Funciona em iOS, Android e Web
 
-## Tecnologias Utilizadas
+## :package: Tecnologias Utilizadas
 
 - **React Native** - Framework principal
 - **Expo** - Plataforma de desenvolvimento e build
@@ -23,7 +23,7 @@ Uma calculadora moderna e elegante desenvolvida com React Native e Expo, oferece
 - **StyleSheet** - Estilização nativa
 - **React Native Gesture Handler** - Interações touch
 
-## Estrutura do Projeto
+## :moyai: Estrutura do Projeto
 
 ```
 ├── app/                          # Expo Router (páginas)
