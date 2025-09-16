@@ -2,6 +2,8 @@
 
 Uma calculadora moderna e elegante desenvolvida com React Native e Expo, oferecendo uma experiência de usuário fluida e interface intuitiva.
 
+:white_check_mark: [Download APK](https://github.com/viniciusciconebarbosa/my-calc-react-native-app/releases/tag/Android)
+
 ## Funcionalidades
 
 - ➕ **Operações Básicas**: Adição, subtração, multiplicação e divisão
