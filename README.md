@@ -20,6 +20,12 @@ Uma calculadora moderna e elegante desenvolvida com React Native e Expo, oferece
 - **Expo Router** - Navegação baseada em arquivos
 - **StyleSheet** - Estilização nativa
 
+## Foto
+
+![WhatsApp Image 2025-09-14 at 19 00 38](https://github.com/user-attachments/assets/9646060f-b6b4-4efd-9cb2-6407ddc4f507)
+
+
+
 ## :moyai: Estrutura do Projeto
 
 ```
