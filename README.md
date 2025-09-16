@@ -4,26 +4,21 @@ Uma calculadora moderna e elegante desenvolvida com React Native e Expo, oferece
 
 :white_check_mark: [Download APK](https://github.com/viniciusciconebarbosa/my-calc-react-native-app/releases/tag/Android)
 
-## Funcionalidades
+## :pushpin: Funcionalidades
 
-- ➕ **Operações Básicas**: Adição, subtração, multiplicação e divisão
-- 🔢 **Números Decimais**: Suporte completo para cálculos com casas decimais
-- 🧮 **Histórico Visual**: Exibe a operação anterior no display
-- 🎯 **Precisão**: Até 8 casas decimais com formatação inteligente
-- 🔄 **Limpeza**: Botões AC (All Clear) e C (Clear) para diferentes níveis de limpeza
-- ⚡ **Interface Responsiva**: Design adaptável com fonte que se ajusta automaticamente
-- 🎨 **Design Moderno**: Interface inspirada na calculadora do iOS
-- 📱 **Multiplataforma**: Funciona em iOS, Android e Web
+-  **Operações Básicas**: Adição, subtração, multiplicação e divisão
+-  **Números Decimais**: Suporte completo para cálculos com casas decimais
+-  **Histórico Visual**: Exibe a operação anterior no display
+-  **Limpeza**: Botões AC (All Clear) e C (Clear) para diferentes níveis de limpeza
+-  **Multiplataforma**: Funciona em iOS, Android e Web
 
 ## :package: Tecnologias Utilizadas
 
 - **React Native** - Framework principal
-- **Expo** - Plataforma de desenvolvimento e build
 - **TypeScript** - Tipagem estática
 - **React Hooks** - Gerenciamento de estado
 - **Expo Router** - Navegação baseada em arquivos
 - **StyleSheet** - Estilização nativa
-- **React Native Gesture Handler** - Interações touch
 
 ## :moyai: Estrutura do Projeto
 
